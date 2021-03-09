@@ -4,7 +4,7 @@
  *                                                                                         |     
  * This file is part of Walmart.Com Reviews Scraper .                                   |
  *                                                                                         |             
- * Walmart.Co Reviews Scraper can not be copied and/or distributed without the express |
+ * Walmart.com Reviews Scraper can not be copied and/or distributed without the express |
  * permission of Sahil Pohare                                                              |
  *******************************************************************************************
 '''
