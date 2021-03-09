@@ -2,9 +2,9 @@
 ********************************************************************************************
  * Copyright (C) 2021 Sahil Pohare (Email: sahilpohare@gmail.com, Github: @sahilpohare)    |
  *                                                                                         |     
- * This file is part of Walmart Canada Reviews Scraper .                                   |
+ * This file is part of Walmart.Com Reviews Scraper .                                   |
  *                                                                                         |             
- * Walmart Canada Reviews Scraper can not be copied and/or distributed without the express |
+ * Walmart.Co Reviews Scraper can not be copied and/or distributed without the express |
  * permission of Sahil Pohare                                                              |
  *******************************************************************************************
 '''
