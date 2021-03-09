@@ -1,3 +1,13 @@
+'''
+********************************************************************************************
+ * Copyright (C) 2021 Sahil Pohare (Email: sahilpohare@gmail.com, Github: @sahilpohare)    |
+ *                                                                                         |     
+ * This file is part of Walmart Canada Reviews Scraper .                                   |
+ *                                                                                         |             
+ * Walmart Canada Reviews Scraper can not be copied and/or distributed without the express |
+ * permission of Sahil Pohare                                                              |
+ *******************************************************************************************
+'''
 import argparse
 import sys
 from typing import List
